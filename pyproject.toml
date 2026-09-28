@@ -1,0 +1,11 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "genpark-voronoi-diagram-delaunay-dual-skill"
+version = "1.0.0"
+description = "Voronoi diagram generator via dual graph extraction of Delaunay triangulation with circumcenter vertices"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []
