@@ -1,0 +1,6 @@
+name: genpark-voronoi-diagram-delaunay-dual-skill
+version: 1.0.0
+description: Voronoi diagram generator via dual graph extraction of Delaunay triangulation with circumcenter vertices
+command: python
+args:
+  - mcp_server.py
