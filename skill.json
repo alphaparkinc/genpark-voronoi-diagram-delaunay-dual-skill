@@ -1,0 +1,20 @@
+{
+  "name": "genpark-voronoi-diagram-delaunay-dual-skill",
+  "version": "1.0.0",
+  "description": "Voronoi diagram generator via dual graph extraction of Delaunay triangulation with circumcenter vertices",
+  "category": "Service",
+  "dependencies": [],
+  "topics": [
+    "mcp",
+    "voronoi-diagram",
+    "delaunay-dual",
+    "computational-geometry",
+    "spatial-partitioning",
+    "circumcenter",
+    "tessellation",
+    "python-standard-library",
+    "agent-skills",
+    "proximity-graph",
+    "gis"
+  ]
+}
